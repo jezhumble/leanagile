@@ -73,7 +73,7 @@ The process of shaping the vision begins by clearly articulating the problem tha
 
 Dan Pink argues in _Drive_ there are three key elements to consider when building an engaged and highly motivated team. First, success requires a shared sense of _purpose_ in the entire team. The vision needs to be challenging enough for the group to have something to aspire to, but clear enough so that everyone can understand what they need to do. Second, people must be empowered by their leaders to work _autonomously_ to achieve the team objectives. Finally, people need the space and opportunity to _master_ their discipline, not just to learn how to achieve “good enough.”
 
-![Individual motivation and engagement](assets/images/module2_unit4_motivation.jpeg)
+![Individual motivation and engagement](assets/images/module2_unit3_motivation.jpeg)
 
 #### Exercises
 

@@ -38,6 +38,8 @@ Research has shown that focusing only on maximizing profits has the paradoxical 
 
 In many organizations, financial management process and activities drive behaviors and decisions which limit people's capabilities to to continuously improve, experiment in areas of great uncertainty, reduce real risks, and innovate. In this module Joanne talks about different ways to look at Financial Management to remove barriers to experimentation, innovation and improved value delivery to your customers.
 
+[Watch Module 3 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-financial-management-to-support-business-agility) &#124; [Supporting material for Module 3](module3.html)
+
 ### Module 4: Building High Performing Teams
 
 What is high performance in the context of a team, and how can we achieve it? In this module, Jez presents the Taylorist and Lean management paradigms and the contexts in which they best operate, shows the impact of culture on organizational performance, discusses how to change culture illustrated with a well-documented case study, and provides a guide to improving team performance and the principles that enable high performance.
