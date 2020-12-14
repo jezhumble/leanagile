@@ -66,7 +66,7 @@ Focus on what you know - in shorter period of time - use placeholders for what y
 
 Beware you don’t land up just recreating the annual budget process, only 4 times a year instead of once. Without dynamic resource allocation and team autonomy to determine the best way to achieve goals, changing to quarterly or monthly rolling forecasts just create more waste.
 
-Financial Reporting
+#### Financial Reporting
 
 Compare products and services using common measures throughout the organization
 
