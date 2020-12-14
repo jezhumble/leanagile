@@ -10,6 +10,8 @@ Discover how Lean focuses on people and teamwork at every level, in contrast to 
 * Lead and manage large-scale programs in a way that empowers employees, increases the speed and quality of delivery, and lowers costs
 * Learn how to implement ideas from the DevOps and Lean Startup movements even in complex, regulated environments
 
+**Please note: the video lectures in this course are available exclusively on [LinkedIn Learning](https://www.linkedin.com/learning/).** While this course website is free to access, you'll need a current [LinkedIn Learning](https://www.linkedin.com/learning/) subscription to view the lectures.
+
 ## Who should take this course
 
 This course is aimed at leaders and teams who want to build high performing organizations to develop digital products and services, and create a culture of experimentation and learning.
@@ -23,6 +25,8 @@ In the clip below, Jez, Joanne and Barry discuss the main obstacles that we see 
 ### Module 1: Running Agile at Scale
 
 There are several frameworks which aim to enable large organizations to implement the ideas and principles of the agile manifesto. However the results often fail to create transformative change. In this module, Jez presents the common issues that arise when trying to implement agile at scale, discusses how to run large programs in an agile way, provides a case study of such an implementation, and shows how worker-led continuous improvement is at the heart of an effective agile adoption.
+
+[Watch this module on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale) &vert; [Supporting material](module1.html)
 
 ### Module 2: Purposeful Organizations
 
