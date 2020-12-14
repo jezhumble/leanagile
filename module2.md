@@ -7,10 +7,10 @@
 ### Unit 1: What is a Purposeful Organization?
 
 > The purpose of an organization is to enable ordinary human beings to do extraordinary things.
-> - Peter Drucker
+> &mdash;Peter Drucker
 
 > Shareholder value is the dumbest idea in the world…[it is] a result, not a strategy…Your main constituencies are your employees, your customers, and your products.
-> - Jack Welch
+> &mdash;Jack Welch
 
 The idea of a common purpose known to all employees is essential to the success of an enterprise.
 
@@ -41,5 +41,47 @@ What people realized is orders always include a passage which describes their _i
 These ideas form the core of the doctrine of Mission Command and what enables maneuver warfare to work at scale—it is key to understanding how enterprises can compete with startups.
 
 ![Mission Command](assets/images/module2_unit2_mission_command.jpeg)
+
+### Unit 3: Outcomes over Outputs
+
+High performance teams focus on business outcomes rather than work outputs such as the number of stories completed (team velocity), lines of code written, or hours worked. Indeed, the goal is to *minimize* output while maximizing outcomes: the less effort and investment to achieve our desired business goals, the better.
+
+The result of a quality planning process is a list of measurable target outcomes we wish to achieve over the next iteration or time horizon describing the *intent* of what we are trying to achieve (e.g. the Principle of Mission) and adopts a *goal-oriented* approach to product development.
+
+Goal-oriented product development has been in use for decades, but most people are still used to defining work in terms of features and benefits rather than measurable business and customer outcomes. The features-and-benefits approach plays to our natural bias towards coming up with solutions, and listing out all the requirements we assume must be implemented to create that complete, and often over-engineered solution.
+Examples good customer and business outcomes include increasing revenue per user, targeting a new market segment, solving a given problem experienced by a particular persona, increasing the performance of our system, or reducing transaction cost.
+
+The framework we like to use for defining outcomes to achieve is this:
+
+> WE BELIEVE THAT < _performing this initiative_ >
+
+> WILL < _achieve this result_ > 
+
+> WE WILL KNOW THIS IS TRUE WHEN < _measurable outcomes not outputs_ >
+
+This approach is refered to as [Hypothesis-Driven Development](http://barryoreilly.com/2013/10/21/how-to-implement-hypothesis-driven-development/).
+
+#### Exercises
+
+* Review the goals that you are currently working towards. Are they outputs or outcomes?
+* Use the Transformation Target Conditions framework for to write two or three outcomes for the initiative your working on.
+* What would be the customer, business, team and technology outcomes you want to achieve?
+
+### Unit 4: How Purpose Empowers Mission Command
+
+The process of shaping the vision begins by clearly articulating the problem that the team will try to solve. This essential step is often overlooked, or we assume everyone knows what the problem is. The quality of a problem statement increases our team’s ability to focus on what really matters—and, more importantly, ignore what does not. By developing our team’s shared understanding of our goals and what we aim to accomplish, we improve our ability to generate better solutions.
+
+Dan Pink argues in _Drive_ there are three key elements to consider when building an engaged and highly motivated team. First, success requires a shared sense of _purpose_ in the entire team. The vision needs to be challenging enough for the group to have something to aspire to, but clear enough so that everyone can understand what they need to do. Second, people must be empowered by their leaders to work _autonomously_ to achieve the team objectives. Finally, people need the space and opportunity to _master_ their discipline, not just to learn how to achieve “good enough.”
+
+![Individual motivation and engagement](assets/images/module2_unit4_motivation.jpeg)
+
+#### Exercises
+
+* Have you setup a Mission Command for your initiative?
+* Have you written down the values and behaviors you wish to see demonstrated on the initiative?
+* What are the outcomes the initiative is aiming for?
+* What working agreements with you have in place?
+* Have you clarified the roles and responsibility for people, when and how often you meet?
+* Could you hold your iteration reviews and meetings at Mission Command to share context at speed and reduce writing reports for writing's sake?
 
 [<< back to main course website](index.html)
