@@ -2,7 +2,7 @@
 
 ## Module 1: Running Agile at Scale
 
-[Watch this module on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale)
+[Watch Module 1 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale)
 
 ### Unit 1: The Problems with Agile at Scale
 
@@ -85,7 +85,7 @@ You can find more on the FutureSmart program in the following books co-authored 
 * _A Practical Approach to Large-Scale Agile Development: How HP Transformed LaserJet FutureSmart Firmware_, by Gary Gruver, Mike Young, and Pat Fulghum.
 * _Leading the Transformation: Applying Agile and DevOps Principles at Scale_, by Gary Gruver and Tommy Mouser.
 
-In addition to the [Improvement Kata resources] available for free on Mike Rother's Website, you can also read _Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results_ by Mike Rother.
+In addition to the [Improvement Kata resources](http://www-personal.umich.edu/~mrother/The_Improvement_Kata.html) available for free on Mike Rother's Website, you can also read _Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results_ by Mike Rother.
 
 ### Unit 5: Conclusion
 

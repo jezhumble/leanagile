@@ -26,11 +26,13 @@ In the clip below, Jez, Joanne and Barry discuss the main obstacles that we see 
 
 There are several frameworks which aim to enable large organizations to implement the ideas and principles of the agile manifesto. However the results often fail to create transformative change. In this module, Jez presents the common issues that arise when trying to implement agile at scale, discusses how to run large programs in an agile way, provides a case study of such an implementation, and shows how worker-led continuous improvement is at the heart of an effective agile adoption.
 
-[Watch this module on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale) &#124; [Supporting material](module1.html)
+[Watch Module 1 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale) &#124; [Supporting material for Module 1](module1.html)
 
 ### Module 2: Purposeful Organizations
 
 Research has shown that focusing only on maximizing profits has the paradoxical effect of reducing the rate of return on investment. Rather, organizations succeed in the long term through developing their capacity to innovate and adopting the strategy of focusing on employees, customers, and products first. In this module, Barry sets out why the clarity of communication and understanding of your organizations purpose is a key differentiator and indicator for higher engagement, alignment and performance of your business.
+
+[Watch Module 2 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-purposeful-organizations) &#124; [Supporting material for Module 2](module2.html)
 
 ### Module 3: Financial Management to Support Business Agility
 
