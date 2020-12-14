@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 .page-header {
     color: black;
-    background-image: url("images/header_image.jpeg");
+    background-image: url("{{ '/assets/images/header_image.jpeg' | relative_url }}");
 }
