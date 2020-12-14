@@ -26,7 +26,7 @@ In the clip below, Jez, Joanne and Barry discuss the main obstacles that we see 
 
 There are several frameworks which aim to enable large organizations to implement the ideas and principles of the agile manifesto. However the results often fail to create transformative change. In this module, Jez presents the common issues that arise when trying to implement agile at scale, discusses how to run large programs in an agile way, provides a case study of such an implementation, and shows how worker-led continuous improvement is at the heart of an effective agile adoption.
 
-[Watch this module on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale) &vert; [Supporting material](module1.html)
+[Watch this module on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale) &#124; [Supporting material](module1.html)
 
 ### Module 2: Purposeful Organizations
 
