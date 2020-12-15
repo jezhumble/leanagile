@@ -69,6 +69,7 @@ Governance, Risk and Compliance (GRC) are necessary, but the intent is not evil.
 In the majority of organizations investment and prioritization decisions are not made on the basis of economic modeling. This inevitably leads to decision making using the "HiPPO" method (the Highly Paid Person's Opinion). In this module Jez presents two tools - decision trees and cost of delay - that can be used to drive decisions at the portfolio, program and product level. Jez then shows how to use these tools to expose and validate assumptions, and to constantly align your plans to the best economic choice.
 
 * [Watch Module 7 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-economic-frameworks-for-portfolio-and-product-management)
+* [Supporting material for Module 7](module7.html)
 
 ### Module 8: Starting Your Business Transformation
 
