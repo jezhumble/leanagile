@@ -76,6 +76,7 @@ In the majority of organizations investment and prioritization decisions are not
 Transforming organizations, teams or even yourself is challenging. There’s no one-size fits all method to achieve success. It’s a combination of hard work, persistence and patience. That said, the most successful enterprises are continually experimenting to learn what works and what doesn’t. They focus on meeting customer needs by clarifying goals, shortening feedback loops and measuring performance based on outcomes, rather than outputs. To become a high performance organization you must develop the capability to continually adapt, adjust and innovate. This requires a deliberate practice of experimentation and learning. In this module, Barry distills a set of practical strategies and principles to help businesses on their journey to become high performance organizations.
 
 * [Watch Module 8 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-starting-your-business-transformation-2)
+* [Supporting material for Module 8](module8.html)
 
 ## Your Instructors
 
