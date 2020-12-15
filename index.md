@@ -62,6 +62,7 @@ High performance organizations continuously move initiatives through the busines
 Governance, Risk and Compliance (GRC) are necessary, but the intent is not evil. Regulations are created to reduce risks of bad things happening. Unfortunately, we often see in organizations where the greatest risk to an organization today - failure to respond rapidly to market changes - is increased dramatically by the very structure, policy, process and controls imposed "for compliance" meant to reduce risk. In this module, Joanne takes you on the journey to understand the world of GRC and how to work to achieve overall organizational balance of risk between observing required constraints and implementing change as required to get ahead of your competition.
 
 * [Watch Module 6 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-moving-fast-with-defined-constraints)
+* [Supporting material for Module 6](module6.html)
 
 ### Module 7: Economic Frameworks for Portfolio and Product Management
 

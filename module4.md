@@ -2,7 +2,7 @@
 
 ## Module 4: Building High Performing Teams
 
-[Watch Module 4 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams)
+* [Watch Module 4 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-building-high-performing-teams)
 
 ### Unit 1: Taylorist Management vs Lean Management
 

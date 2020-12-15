@@ -2,7 +2,7 @@
 
 ## Module 5: Managing the Innovation Portfolio
 
-[Watch Module 5 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-managing-the-innovation-portfolio)
+* [Watch Module 5 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-managing-the-innovation-portfolio)
 
 ### Unit 1: The Lifecycle of Innovation
 
@@ -10,7 +10,7 @@ In this unit we will examine the lifecycle of businesses and how companies can b
 
 Over time, all successful ideas, whether technologies, product categories, business models, or even methodologies, progress from being scarce and unevenly distributed to eventually becoming a commodity. They then form building blocks for new, higher-level, more valuable innovations. Of course the time it takes for innovations to progress through the various stages of the cycle can vary substantially.
 
-![The continuous lifecycle of innovation](assets/images/module5_unit1_innovation_lifecycle.jpg]
+![The continuous lifecycle of innovation](assets/images/module5_unit1_innovation_lifecycle.jpg)
 
 The first point to observe is that products at different stages of maturity vary significantly in terms of how they are managed, developed, marketed, and funded. For example, in a mature market we have a good understanding of our customers and the value they get from the product; acquiring new customer or selling new products to existing ones is well understood, and new products in the category typically contain only incremental innovations. For new categories, the opposite is true.
 
@@ -117,7 +117,7 @@ It's important to build tension into metric too - so we don't over optimize one 
 
 In terms of governance, the most important thing to do is have a regular weekly or fortnightly meeting which includes the product and engineering leads within the team, along with some key stakeholders from outside the team. During the meeting we will assess the state of the chosen metrics, and perhaps update on which metrics we choose to focus on (including the One Metric That Matters). The goal of the meeting is to decide whether the team should persevere, pivot or stop what we are doing based on the result of our work, and the data we have gathered.
 
-#### Exercises
+#### Exercise questions
 
 * What customer and business metrics would be on your innovation scorecard?
 * Are they vanity or actionable metrics?

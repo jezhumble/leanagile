@@ -2,7 +2,7 @@
 
 ## Module 2: Purposeful Organizations
 
-[Watch Module 2 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-purposeful-organizations)
+* [Watch Module 2 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-purposeful-organizations)
 
 ### Unit 1: What is a Purposeful Organization?
 

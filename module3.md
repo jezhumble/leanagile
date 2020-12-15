@@ -2,7 +2,7 @@
 
 ## Module 3: Financial Management to Support Business Agility
     
-[Watch Module 3 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-financial-management-to-support-business-agility)
+* [Watch Module 3 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-financial-management-to-support-business-agility)
 
 ### Unit 1: Pitfalls of Classic Financial Management
 

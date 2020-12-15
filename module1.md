@@ -2,7 +2,7 @@
 
 ## Module 1: Running Agile at Scale
 
-[Watch Module 1 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale)
+* [Watch Module 1 on LinkedIn Learning](https://www.linkedin.com/learning/lean-technology-strategy-running-agile-at-scale)
 
 ### Unit 1: The Problems with Agile at Scale
 
